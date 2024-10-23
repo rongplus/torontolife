@@ -1,0 +1,2 @@
+[theme]\nbase='light'\nprimaryColor='#3a70ec'\nbackgroundColor='#FFD600'\nsecondaryBackgroundColor = '#F0F2F6'\ntextColor='#0e1862'\n
+[server]\nheadless = true\nenableCORS=false\nport = \n
